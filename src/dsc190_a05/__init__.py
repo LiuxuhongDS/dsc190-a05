@@ -1,2 +1,2 @@
-def main() -> None:
-    print("Hello from dsc190-a05!")
+def main():
+    print("hello")
